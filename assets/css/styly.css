@@ -1,0 +1,13 @@
+
+body {
+    background: rgb(73, 72, 71);
+}
+
+h1 {
+    background-color: rgb(136, 136, 125);
+    color: rgb(241, 144, 131);
+    text-align: center;
+    font-size: 150px;
+    box-shadow: 0 0 15px black;
+    border-radius: 45px;
+}
